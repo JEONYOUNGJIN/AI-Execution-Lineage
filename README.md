@@ -66,7 +66,7 @@ The system focuses on:
   "prev_hash": "...",
   "trace_hash": "..."
 }
-
+```
 ---
 
 # Initial MVP Scope
