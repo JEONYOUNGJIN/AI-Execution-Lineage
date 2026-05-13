@@ -1,0 +1,10 @@
+{
+  "trace_id": "trace-001",
+  "parent_trace_id": null,
+  "prompt": "Refactor this code",
+  "context": "legacy-auth-module",
+  "tool_calls": [],
+  "output": "refactored result",
+  "prev_hash": null,
+  "trace_hash": "sha256-hash"
+}
